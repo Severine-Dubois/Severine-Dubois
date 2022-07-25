@@ -12,7 +12,7 @@ Développeuse Web junior, j'ai étudié chez l'école Oclock. Préférence pour 
 
 J'aime fouiller et découvrir de nouvelles choses au fur et à mesure de mon apprentissage.
 
-Certificat Opaquast en cours de préparation. :nerd_face:
+Certificat Opquast en cours de préparation. :nerd_face:
 
 _______
 
