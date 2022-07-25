@@ -2,8 +2,8 @@
 
 <div align="center">
 
- <a href="">![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FSevD_Dev)</a>
- <a href="">![LinkedIn URL](https://img.shields.io/static/v1?message=LinkedIn&logo=LinkedIn&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic&url=https://www.linkedin.com/in/s%C3%A9verine-dubois-670a38238/) </a>
+ <a href="https://twitter.com/SevD_Dev">![Twitter URL](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https://twitter.com/SevD_Dev)</a>
+ <a href="https://www.linkedin.com/in/s%C3%A9verine-dubois-670a38238/">![LinkedIn URL](https://img.shields.io/static/v1?message=LinkedIn&logo=LinkedIn&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic&url=https://www.linkedin.com/in/s%C3%A9verine-dubois-670a38238/) </a>
 
 </div>
 
