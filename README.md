@@ -8,7 +8,7 @@
 </div>
 
 :fr:
-Développeuse Web junior, j'ai étudié chez l'école Oclock. Préférence pour le backend (PHP & Symfony).
+Développeuse Web junior, j'ai étudié chez l'école Oclock. A la recherche d'une alternance pour octobre 2022.
 
 J'aime fouiller et découvrir de nouvelles choses au fur et à mesure de mon apprentissage.
 
@@ -17,7 +17,7 @@ Certificat Opquast en cours de préparation. :nerd_face:
 _______
 
 🇬🇧
-I learned web developpement at Oclock school. Have a preference for backend (PHP & Symfony).
+I learned web developpement at Oclock school. Looking for apprenticeship contract, begins in October 2022.
 
 Love to search and discover new things as my learning progresses.
 
