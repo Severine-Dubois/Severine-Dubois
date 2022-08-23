@@ -17,7 +17,7 @@ Certificat Opquast en cours de préparation. :nerd_face:
 _______
 
 🇬🇧
-I learned web developpement at Oclock school. Looking for apprenticeship contract, begins in October 2022.
+I learned web developpement at Oclock school. Looking for apprenticeship contract, beginning in October 2022.
 
 Love to search and discover new things as my learning progresses.
 
