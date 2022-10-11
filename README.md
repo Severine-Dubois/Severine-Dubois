@@ -2,26 +2,25 @@
 
 <div align="center">
 
- <a href="https://twitter.com/SevD_Dev">![Twitter URL]( 	https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
  <a href="https://www.linkedin.com/in/s%C3%A9verine-dubois-670a38238/">![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 
 </div>
 
 :fr:
-Développeuse Web junior, j'ai étudié chez l'école Oclock. A la recherche d'une alternance pour octobre 2022.
+Développeuse Web junior, j'ai étudié chez l'école Oclock.
 
 J'aime fouiller et découvrir de nouvelles choses au fur et à mesure de mon apprentissage.
 
-Certificat Opquast en cours de préparation. :nerd_face:
+Certificat Opquast : 830/1000. :nerd_face:
 
 _______
 
 🇬🇧
-I learned web developpement at Oclock school. Looking for apprenticeship contract, beginning in October 2022.
+Junior web developer, I learned web developpement at Oclock school.
 
 Love to search and discover new things as my learning progresses.
 
-Currently preparing Opquast certification. :nerd_face:
+Opquast certification : 830/1000. :nerd_face:
 
 
 ______
@@ -35,7 +34,7 @@ Langages & Services appris | Learned Languages & Services :
 
 En cours d'apprentissage | Currently learning :
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](	https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 <a href="https://github.com/Severine-Dubois/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Severine-Dubois&layout=compact" />
